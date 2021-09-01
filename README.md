@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Carlos-Choia
-- 👀 I’m interested in data driven
+- 👀 I’m interested in programmable infrastructure
 - 🌱 I’m currently learning phyton
 - 💞️ I’m looking to collaborate on cloud
 - 📫 Reach me at carlos.choia@outlook.com
