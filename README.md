@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Carlos-Choia
-- 👀 I’m interested in LAN/WAN,SDN,IaC,CyberSecurity,Google Cloud
+- 👀 I’m interested in LAN/WAN, SDN, IaC, CyberSecurity, Google Cloud
 - 🌱 I’m currently Learning Google Cloud
 - 💞️ I’m looking to collaborate in projects
 - 📫 Reach me at carloschoia@hotmail.com
