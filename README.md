@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Carlos-Choia
-- 👀 I’m interested in #SD-WAN #SDN #Cloud #IaC #Cybersecurity #GCP
+- 👀 I’m interested in Projects #Cloud #AI #I4.0 #IaC #Cybersecurity #GCP
 - 🌱 I’m BSc Computer Science; Google Cloud Certified Engineer; Cisco Certified Design & Security
 - 💞️ I’m looking to collaborate in projects 
 - 📫 Reach me at carloschoia@hotmail.com
