@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Carlos-Choia
-- 👀 I’m interested in #Routing #Switching #LAN #SD-WAN #SDN #Cloud-Network #IaC #Cybersecurity #GCP
-- 🌱 I’m currently Learning Google Cloud Platform
-- 💞️ I’m looking to collaborate in projects connect secure networks 
+- 👀 I’m interested in #SD-WAN #SDN #Cloud #IaC #Cybersecurity #GCP
+- 🌱 I’m Google Cloud Certified Engineer
+- 💞️ I’m looking to collaborate in projects 
 - 📫 Reach me at carloschoia@hotmail.com
 
 <!---
